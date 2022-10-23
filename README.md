@@ -2,7 +2,7 @@ Hi! My name is Mohammad javad. Thank You for taking the time to view my GitHub P
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-- 👋 Hi, I’m @mjsoltani
+- 👋 Hi, I’m <a href="https://github.com/mjsoltani"> @mjsoltani </a>
 - 👀 I’m interested in software engineering and design system also in data engineering and design patterns 
 - 🌱 I’m currently learning node js and express with design patterns and data structures
 - 💞️ I’m looking to collaborate on big tech company with challanging stuff to learn
