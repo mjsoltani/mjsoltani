@@ -10,8 +10,6 @@
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)&nbsp;
 ![NodeJs](https://img.shields.io/badge/nodejs-%23007ACC.svg?style=for-the-badge&logo=nodejs&logoColor=green&color=green)&nbsp;
 ![laravel](https://img.shields.io/badge/laravel-%23007ACC.svg?style=for-the-badge&logo=laravel&logoColor=white&color=red)&nbsp;
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![Express js](https://img.shields.io/badge/express-0078d7.svg?style=for-the-badge&logo=express.js&logoColor=green&color=white)&nbsp;
 <!---
 mjsoltani/mjsoltani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
